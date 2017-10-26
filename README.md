@@ -6,6 +6,8 @@ Collection of some awesome resources for react-native :sparkles:
 
 * https://blog.cloudboost.io/experience-building-first-react-native-app-from-hello-world-to-app-store-73781393af73
 
+* Building the chainReact app: https://shift.infinite.red/making-the-react-native-conference-app-in-react-native-9afd36be3681
+
 # Layout
 * Flexbox basics: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
@@ -13,6 +15,8 @@ Collection of some awesome resources for react-native :sparkles:
 * Image layout: https://medium.com/the-react-native-log/tips-for-react-native-images-or-saying-goodbye-to-trial-and-error-b2baaf0a1a4d
 
 * Interactive Images: https://medium.com/@shubhnik/creating-instagram-medium-like-responsive-images-in-react-native-170a5126a5f
+
+* Image caching: https://hackernoon.com/image-caching-in-react-native-96d8df33ca84
 
 # Animations
 * Exploring animated API: https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae
@@ -38,6 +42,13 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 
 * https://medium.com/@audytanudjaja/react-native-ui-challenge-building-instagram-zoom-draggable-photo-9127413b1d29
 
+* Animating TextInputs: https://goshakkk.name/floating-label-input-rn-animated/
+
+* Adding Lottie animations in React-Native: https://medium.com/react-native-training/lottie-react-native-tutorial-162d91840720
+
+# Navigation
+* Deep linking with react-Navigation: https://medium.com/react-native-training/deep-linking-your-react-native-app-d87c39a1ad5e
+
 # Storage
 * https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f
 
@@ -54,10 +65,21 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 
 * Jest for testing react-native: https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-1-f782c4e30101
 
+* Graybox E2E Tests using Detox: https://www.youtube.com/watch?v=GgFFeI70PWw
+
+* e2e testing in React-Native: https://blog.home.ht/how-to-do-end-to-end-testing-on-react-native-with-detox-2b7f404e7713
+
 # Tooling/Analytics
 * Beta testing a RN app: https://medium.com/komenco/beta-testing-your-react-native-android-application-with-crashlytics-483c7e66a423
 
 * Adding crashlytics: https://medium.com/delivery-com-engineering/add-crashlytics-to-your-react-native-ios-app-69a983a9062a
 
+* App deployment: https://pillow.codes/bitrise-codepush-react-native-ideal-mobile-ci-setup-6283b86146c
+
 # Offline functionality
 * Handling offline actions in react-native: https://medium.com/differential/handling-offline-actions-in-react-native-74949cbfabf2
+
+* Offline utilities: https://blog.callstack.io/your-react-native-offline-tool-belt-795abd5f0183
+
+# Authentication
+* OAuth2 with React-Native: https://medium.com/@jtremback/oauth-2-with-react-native-c3c7c64cbb6d
