@@ -64,6 +64,13 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 # Geolocation/Maps
 * Geolocation with react-native-maps (2 parts): https://www.asher-scott.com/blog/post/2
 
+# AR/VR
+* Building AR app with React-Native and Viro AR: https://blog.viromedia.com/how-to-build-an-interactive-ar-app-in-5-mins-w-react-native-viro-ar-e420147e1612
+
+* Building AR portals with React-Native and Viro AR: https://blog.viromedia.com/how-to-build-ar-portals-in-5-mins-w-react-native-viro-ar-b939850def94
+
+* Adding Snapchat like AR lenses in React-Native: https://blog.viromedia.com/add-snapchat-ar-lenses-to-any-app-w-react-native-viro-ar-9d4053769782
+
 # Storage
 * https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f
 
