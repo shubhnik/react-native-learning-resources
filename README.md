@@ -8,6 +8,28 @@ Collection of some awesome resources for react-native :sparkles:
 
 * Building the chainReact app: https://shift.infinite.red/making-the-react-native-conference-app-in-react-native-9afd36be3681
 
+# React-Native architecture
+* How react-native works:
+http://www.discoversdk.com/blog/how-react-native-works
+
+* React-native working:
+http://www.geeksforgeeks.org/react-native-works/
+
+* React-native working under the hood:
+https://wetalkit.xyz/react-native-what-it-is-and-how-it-works-e2182d008f5e
+
+* Deep dive into react-native working:
+https://www.youtube.com/watch?v=7rDsRXj9-cU
+
+* React-native under the hood:
+https://www.youtube.com/watch?v=hDviGU-57lU
+
+* Architecture of React-native:
+https://www.youtube.com/watch?v=Ah2qNbI40vE
+
+* Under the hood of react-native:
+https://www.youtube.com/watch?v=8N4f4h6SThc
+
 # Layout
 * Flexbox basics: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
@@ -55,6 +77,10 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 * Adding Lottie animations in React-Native: https://medium.com/react-native-training/lottie-react-native-tutorial-162d91840720
 
 # Navigation
+
+* React-Navigation integration with Redux with authentication flow:
+https://hackernoon.com/a-comprehensive-guide-for-integrating-react-navigation-with-redux-including-authentication-flow-cb7b90611adf
+
 * Deep linking with react-Navigation: https://medium.com/react-native-training/deep-linking-your-react-native-app-d87c39a1ad5e
 
 * React-Navigation drawer tutorial: https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc
@@ -63,6 +89,8 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 
 # Geolocation/Maps
 * Geolocation with react-native-maps (2 parts): https://www.asher-scott.com/blog/post/2
+
+* Geolocation basics in react-native: https://hackernoon.com/react-native-basics-geolocation-adf3c0d10112
 
 # AR/VR
 * Building AR app with React-Native and Viro AR: https://blog.viromedia.com/how-to-build-an-interactive-ar-app-in-5-mins-w-react-native-viro-ar-e420147e1612
@@ -75,6 +103,10 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 * https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f
 
 # Performance
+* An article on react-native performance: https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440
+
+* Another article on react-native performance: https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440
+
 * https://hackernoon.com/5-ways-we-improved-our-react-native-app-2704d5098b20
 
 * Using InteractionManager: https://github.com/brentvatne/run-after-interactions-exp/blob/master/main.js
@@ -87,6 +119,8 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 * Awesome techniques to debug react-native app: https://medium.com/reactnativeacademy/debugging-react-native-applications-6bff3f28c375
 
 # Testing
+* Gray box end to end testing using detox: https://hackernoon.com/detox-gray-box-end-to-end-testing-framework-for-mobile-apps-196ccd9564ce
+
 * e2e tests in Reaact-Native: https://blog.callstack.io/time-to-detox-e8ba22f2c048
 
 * Jest for testing react-native (4 parts): https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-1-f782c4e30101
