@@ -48,6 +48,9 @@ https://www.youtube.com/watch?v=8N4f4h6SThc
 
 * Photo editing using Photoeditor sdk for react-native: https://blog.photoeditorsdk.com/photoeditor-sdk-react-native-15179c589a55
 
+* Progressive images and caching:
+https://medium.com/@wcandillon/smart-images-in-react-native-db0ef047dd8c
+
 # Animations
 * Exploring animated API: https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae
 
@@ -62,6 +65,9 @@ https://www.youtube.com/watch?v=8N4f4h6SThc
   * https://github.com/shubhnik/react-native-animation3
 
 * https://medium.com/the-react-native-log/building-a-facebook-paper-like-ui-with-react-native-4a753623d343
+
+* Creating a drag and drop component in react-native:
+https://blog.reactnativecoach.com/creating-draggable-component-with-react-native-132d30c27cb0
 
 * Smoother animations using native driver:
 https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-animated.html
@@ -118,6 +124,15 @@ https://hackernoon.com/a-comprehensive-guide-for-integrating-react-navigation-wi
 
 * Awesome techniques to debug react-native app: https://medium.com/reactnativeacademy/debugging-react-native-applications-6bff3f28c375
 
+* Extending react-native dev menu:
+https://medium.com/capriza-engineering/extending-react-natives-dev-menu-c084fc93717d
+
+* Debugging react-native and redux applications using react-native debugger:
+https://blog.reactnativecoach.com/debugging-react-native-and-redux-with-react-native-debugger-62f6ceef3033
+
+* Debugging the bridge:
+https://blog.callstack.io/reactnative-how-to-check-what-passes-through-your-bridge-e435571ffd85
+
 # Testing
 * Gray box end to end testing using detox: https://hackernoon.com/detox-gray-box-end-to-end-testing-framework-for-mobile-apps-196ccd9564ce
 
@@ -143,13 +158,16 @@ https://medium.com/react-native-training/up-and-running-with-react-native-and-ty
 
 * Updating react-native app: https://medium.com/react-native-training/updating-your-react-native-app-a724c996a76d
 
-* Continuous integration for react-native apps: https://stories.nevercode.io/setting-up-continuous-integration-for-react-native-with-nevercode-36f313a13357
-
 # Deployment
 * Understanding react-native deployments:
 https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7
 
 * App deployment: https://pillow.codes/bitrise-codepush-react-native-ideal-mobile-ci-setup-6283b86146c
+
+* Continuous integration for react-native apps: https://stories.nevercode.io/setting-up-continuous-integration-for-react-native-with-nevercode-36f313a13357
+
+* Continuous integration forreact-native apps using Visual Studio App Center:
+https://medium.com/react-native-training/setup-continuous-integration-with-react-native-50ad2f6145f4
 
 # Offline functionality
 * Using redux-offline for react-native and PWA for offline first architecture: https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0
@@ -164,3 +182,7 @@ https://medium.com/react-native-training/understanding-react-native-deployments-
 * OAuth2 with React-Native: https://medium.com/@jtremback/oauth-2-with-react-native-c3c7c64cbb6d
 
 * Creating an authentication system and a persistent user session with react-native: http://www.theodo.fr/blog/2017/03/how-to-create-an-authentication-system-and-a-persistent-user-session-with-react-native/
+
+# Misc
+* Communicating between react-native and webview:
+https://medium.com/capriza-engineering/communicating-between-react-native-and-the-webview-ac14b8b8b91a
