@@ -2,11 +2,17 @@
 Collection of some awesome resources for react-native :sparkles:
 
 # Experiences/Case studies
+
+* React-Native case studies:
+https://belitsoft.com/react-native-development/migrating-react-native-top-20-case-studies-well-known-companies 
+
 * housing.com's experience building RN app: https://medium.com/engineering-housing/how-we-built-our-react-native-app-3380a33811ac
 
 * https://blog.cloudboost.io/experience-building-first-react-native-app-from-hello-world-to-app-store-73781393af73
 
 * Building the chainReact app: https://shift.infinite.red/making-the-react-native-conference-app-in-react-native-9afd36be3681
+
+* https://blog.uptech.team/how-we-build-apps-on-react-native-part-2-7-things-you-should-know-to-save-your-development-time-944533f81c03
 
 # React-Native architecture
 * How react-native works:
@@ -69,6 +75,8 @@ https://medium.com/@wcandillon/smart-images-in-react-native-db0ef047dd8c
 * Creating a drag and drop component in react-native:
 https://blog.reactnativecoach.com/creating-draggable-component-with-react-native-132d30c27cb0
 
+* Android lock-pattern implementation using Animated API: https://medium.com/@audytanudjaja/android-pattern-lock-with-react-native-and-expo-c94c58a5d343
+
 * Smoother animations using native driver:
 https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-animated.html
 
@@ -82,6 +90,14 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 
 * Adding Lottie animations in React-Native: https://medium.com/react-native-training/lottie-react-native-tutorial-162d91840720
 
+* Drag and drop tags in React-Native(Part-1): https://rationalappdev.com/drag-and-drop-tags-in-react-native-part-1-of-2/
+
+* Drag and drop tags in React-Native(Part-2): https://rationalappdev.com/drag-and-drop-tags-in-react-native-part-2-of-2/
+
+* ScrollView animations using Animated API: https://medium.com/dailyjs/how-i-linked-animated-headers-to-scroll-position-in-react-native-1a4906fca25b
+
+* Animating items of FlatList: https://hackernoon.com/how-to-animate-the-items-of-a-react-native-flatlist-32c8cbf7ea3d
+
 # Navigation
 
 * React-Navigation integration with Redux with authentication flow:
@@ -92,6 +108,16 @@ https://hackernoon.com/a-comprehensive-guide-for-integrating-react-navigation-wi
 * React-Navigation drawer tutorial: https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc
 
 * Configuring android drawer and status bar: https://blog.callstack.io/android-drawer-statusbar-done-right-for-react-native-7e85f01fc099
+
+* Custom transitions in React Navigation:
+https://medium.com/async-la/custom-transitions-in-react-navigation-2f759408a053
+
+* 5 part series on React-Navigation:
+https://medium.com/async-la/a-stately-guide-to-react-navigation-with-redux-1f90c872f96e
+
+# Push Notifications
+
+* https://apiko.com/blog/react-native-push-notifications/?utm_source=sharing-sources-f&utm_medium=react-native-push-notifications&utm_content=sharing-sources-f&utm_campaign=blog
 
 # Geolocation/Maps
 * Geolocation with react-native-maps (2 parts): https://www.asher-scott.com/blog/post/2
@@ -109,6 +135,8 @@ https://hackernoon.com/a-comprehensive-guide-for-integrating-react-navigation-wi
 * https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f
 
 # Performance
+* React-Native performance profiling: https://medium.com/@adamjacobb/react-native-performance-profiling-32dd00b93351
+
 * An article on react-native performance: https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440
 
 * Another article on react-native performance: https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440
@@ -143,6 +171,8 @@ https://blog.callstack.io/reactnative-how-to-check-what-passes-through-your-brid
 * Graybox E2E Tests using Detox: https://www.youtube.com/watch?v=GgFFeI70PWw
 
 * e2e testing in React-Native: https://blog.home.ht/how-to-do-end-to-end-testing-on-react-native-with-detox-2b7f404e7713
+
+* Testing in React-Native (Part-1): https://medium.com/localz-engineering/react-native-testing-part-1-eea89402a588
 
 # Tooling/Analytics
 * VSCode setup for React-Native: https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce
@@ -183,6 +213,14 @@ https://medium.com/react-native-training/setup-continuous-integration-with-react
 
 * Creating an authentication system and a persistent user session with react-native: http://www.theodo.fr/blog/2017/03/how-to-create-an-authentication-system-and-a-persistent-user-session-with-react-native/
 
+* React-Native authentication in depth ( AWS Mobile hub + AWS Amplify + Amazon Cognito ): https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b
+
 # Misc
 * Communicating between react-native and webview:
 https://medium.com/capriza-engineering/communicating-between-react-native-and-the-webview-ac14b8b8b91a
+
+* Tweeting in React-Native using linking: https://medium.com/@jordan_mohi/tweeting-with-react-native-and-linking-openurl-9c505d49bc3e
+
+* Implementing native modules for ios in React-Native: https://medium.com/@shashank.shashi2/implementing-native-modules-for-ios-react-native-bcb76be696ea
+
+* Add admob to react-native app: https://medium.com/@TarikHajji/add-admob-to-react-native-app-5b1e91be459
