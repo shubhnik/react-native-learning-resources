@@ -57,6 +57,8 @@ https://www.youtube.com/watch?v=8N4f4h6SThc
 * Progressive images and caching:
 https://medium.com/@wcandillon/smart-images-in-react-native-db0ef047dd8c
 
+* Five things to know about images in React-Native: https://hackernoon.com/5-things-to-know-about-images-react-native-69be41d2a9ee?source=twitterShare-695782484bda-1518748257
+
 # Animations
 * Exploring animated API: https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae
 
@@ -97,6 +99,8 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 * ScrollView animations using Animated API: https://medium.com/dailyjs/how-i-linked-animated-headers-to-scroll-position-in-react-native-1a4906fca25b
 
 * Animating items of FlatList: https://hackernoon.com/how-to-animate-the-items-of-a-react-native-flatlist-32c8cbf7ea3d
+
+* Breaking down a counter animation n React-Native: https://medium.com/@Mz_Chi/breaking-down-a-counter-animation-in-react-native-1e4d6465b9fa
 
 # Navigation
 
@@ -151,6 +155,9 @@ https://medium.com/async-la/a-stately-guide-to-react-navigation-with-redux-1f90c
 * https://medium.com/research-engineering-at-simply-technologies/react-native-debugging-like-a-god-9610ac2ffd12
 
 * Awesome techniques to debug react-native app: https://medium.com/reactnativeacademy/debugging-react-native-applications-6bff3f28c375
+
+* React-Native debugging using React-Native debugger: 
+https://levelup.gitconnected.com/supercharge-your-react-native-development-with-react-native-debugger-7633882683a9
 
 * Extending react-native dev menu:
 https://medium.com/capriza-engineering/extending-react-natives-dev-menu-c084fc93717d
@@ -214,6 +221,9 @@ https://medium.com/react-native-training/setup-continuous-integration-with-react
 * Creating an authentication system and a persistent user session with react-native: http://www.theodo.fr/blog/2017/03/how-to-create-an-authentication-system-and-a-persistent-user-session-with-react-native/
 
 * React-Native authentication in depth ( AWS Mobile hub + AWS Amplify + Amazon Cognito ): https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b
+
+* React-Native authentication using Firebase:
+https://blog.invertase.io/getting-started-with-firebase-authentication-on-react-native-a1ed3d2d6d91
 
 # Misc
 * Communicating between react-native and webview:
