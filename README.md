@@ -72,10 +72,15 @@ https://medium.com/@wcandillon/smart-images-in-react-native-db0ef047dd8c
 
   * https://github.com/shubhnik/react-native-animation3
 
+* https://medium.com/oberonamsterdam/what-the-react-native-docs-forgot-to-tell-you-about-animations-c21d67abf14d
+
 * https://medium.com/the-react-native-log/building-a-facebook-paper-like-ui-with-react-native-4a753623d343
 
 * Creating a drag and drop component in react-native:
 https://blog.reactnativecoach.com/creating-draggable-component-with-react-native-132d30c27cb0
+
+* Building Apple Music UI with pan animations:
+https://blog.expo.io/tutorial-apple-music-ui-pan-animation-f25dcf39d2b9
 
 * Android lock-pattern implementation using Animated API: https://medium.com/@audytanudjaja/android-pattern-lock-with-react-native-and-expo-c94c58a5d343
 
@@ -102,12 +107,19 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 
 * Breaking down a counter animation n React-Native: https://medium.com/@Mz_Chi/breaking-down-a-counter-animation-in-react-native-1e4d6465b9fa
 
+* React-Native animations done right: https://medium.com/@7ynk3r/react-native-animations-done-right-d5249cc1ebbf
+
+* Experiments with high erformance animations in React-Native: https://engineering.salesforce.com/experiments-with-high-performance-animation-in-react-native-80a0cb7052b0
+
 # Navigation
 
 * React-Navigation integration with Redux with authentication flow:
 https://hackernoon.com/a-comprehensive-guide-for-integrating-react-navigation-with-redux-including-authentication-flow-cb7b90611adf
 
 * Deep linking with react-Navigation: https://medium.com/react-native-training/deep-linking-your-react-native-app-d87c39a1ad5e
+
+* Improving React-Navigation performance:
+https://novemberfive.co/blog/react-performance-navigation-animations/
 
 * React-Navigation drawer tutorial: https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc
 
@@ -226,6 +238,9 @@ https://medium.com/react-native-training/setup-continuous-integration-with-react
 https://blog.invertase.io/getting-started-with-firebase-authentication-on-react-native-a1ed3d2d6d91
 
 # Misc
+* Building an e-commerce search app in React-Native:
+https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315
+
 * Communicating between react-native and webview:
 https://medium.com/capriza-engineering/communicating-between-react-native-and-the-webview-ac14b8b8b91a
 
@@ -234,3 +249,7 @@ https://medium.com/capriza-engineering/communicating-between-react-native-and-th
 * Implementing native modules for ios in React-Native: https://medium.com/@shashank.shashi2/implementing-native-modules-for-ios-react-native-bcb76be696ea
 
 * Add admob to react-native app: https://medium.com/@TarikHajji/add-admob-to-react-native-app-5b1e91be459
+
+* React-Native quirks: https://codeburst.io/react-native-quirks-2fb1ae0bbf80
+
+* Communicating to and from native UI components: https://medium.com/@john1jan/communicating-to-and-from-native-ui-components-in-react-native-android-b8abcfb2f9c8
