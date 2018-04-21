@@ -43,6 +43,8 @@ https://www.youtube.com/watch?v=8N4f4h6SThc
 
 * Responsive UIs in react-native: https://hackernoon.com/responsive-uis-in-react-native-a406b5d6c36a
 
+* Fast and responsive UI tricks: https://medium.com/@adamjacobb/react-native-performance-building-a-fast-and-responsive-ui-62b5dcc8b8af
+
 # Images
 * Pixel pefect cloud images in react-native: https://blog.uncommon.is/pixel-perfect-cloud-images-in-react-native-55acbc377a72
 
@@ -58,6 +60,8 @@ https://www.youtube.com/watch?v=8N4f4h6SThc
 https://medium.com/@wcandillon/smart-images-in-react-native-db0ef047dd8c
 
 * Five things to know about images in React-Native: https://hackernoon.com/5-things-to-know-about-images-react-native-69be41d2a9ee?source=twitterShare-695782484bda-1518748257
+
+* React-Native image performance: https://medium.com/@adamjacobb/react-native-performance-images-adf5843e120
 
 # Animations
 * Exploring animated API: https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae
@@ -253,3 +257,8 @@ https://medium.com/capriza-engineering/communicating-between-react-native-and-th
 * React-Native quirks: https://codeburst.io/react-native-quirks-2fb1ae0bbf80
 
 * Communicating to and from native UI components: https://medium.com/@john1jan/communicating-to-and-from-native-ui-components-in-react-native-android-b8abcfb2f9c8
+
+* Sending events to Javascript from native module in React-Native: 
+https://blog.callstack.io/sending-events-to-javascript-from-your-native-module-in-react-native-29244f890e04
+
+* Handling deep linking in React-Native: https://medium.com/the-react-native-log/handle-deep-links-in-react-native-apps-b22055149b3a
