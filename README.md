@@ -1,4 +1,4 @@
-# react-native-awesome-resources
+# react-native-learning-resources
 Collection of some awesome resources for react-native :sparkles:
 
 # Experiences/Case studies
@@ -13,6 +13,9 @@ https://belitsoft.com/react-native-development/migrating-react-native-top-20-cas
 * Building the chainReact app: https://shift.infinite.red/making-the-react-native-conference-app-in-react-native-9afd36be3681
 
 * https://blog.uptech.team/how-we-build-apps-on-react-native-part-2-7-things-you-should-know-to-save-your-development-time-944533f81c03
+
+* Series on building with React-Native:
+https://medium.com/building-with-react-native
 
 # React-Native architecture
 * How react-native works:
@@ -36,7 +39,9 @@ https://www.youtube.com/watch?v=Ah2qNbI40vE
 * Under the hood of react-native:
 https://www.youtube.com/watch?v=8N4f4h6SThc
 
-# Layout
+# Layout / UI
+* Shapes in React-Native: https://codedaily.io/tutorials/22/The-Shapes-of-React-Native
+
 * Flexbox basics: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 * Themeing in React-Native: https://blog.benestudio.co/themes-in-react-native-16b4b0a33ed
@@ -44,6 +49,11 @@ https://www.youtube.com/watch?v=8N4f4h6SThc
 * Responsive UIs in react-native: https://hackernoon.com/responsive-uis-in-react-native-a406b5d6c36a
 
 * Fast and responsive UI tricks: https://medium.com/@adamjacobb/react-native-performance-building-a-fast-and-responsive-ui-62b5dcc8b8af
+
+* Build responsive UIs in react-native:
+https://medium.com/building-with-react-native/how-to-develop-responsive-uis-with-react-native-1x03-a448097c9503
+
+* Custom fonts in React-Native: https://medium.com/@ben.clayton/react-native-cross-platform-custom-fonts-3122cd4b75bd
 
 # Images
 * Pixel pefect cloud images in react-native: https://blog.uncommon.is/pixel-perfect-cloud-images-in-react-native-55acbc377a72
@@ -80,6 +90,8 @@ https://medium.com/@wcandillon/smart-images-in-react-native-db0ef047dd8c
 
 * https://medium.com/the-react-native-log/building-a-facebook-paper-like-ui-with-react-native-4a753623d343
 
+* React-Native's LayoutAnimation: https://medium.com/@nemishah1212/messing-around-with-react-natives-layout-animation-4260d5022cab
+
 * Creating a drag and drop component in react-native:
 https://blog.reactnativecoach.com/creating-draggable-component-with-react-native-132d30c27cb0
 
@@ -114,6 +126,9 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 * React-Native animations done right: https://medium.com/@7ynk3r/react-native-animations-done-right-d5249cc1ebbf
 
 * Experiments with high erformance animations in React-Native: https://engineering.salesforce.com/experiments-with-high-performance-animation-in-react-native-80a0cb7052b0
+
+* How to achieve great animation performance in React-Native: 
+https://medium.com/building-with-react-native/animations-in-react-native-how-to-achieve-great-performance-and-tips-1x04-44fd43996428
 
 # Navigation
 
@@ -262,3 +277,9 @@ https://medium.com/capriza-engineering/communicating-between-react-native-and-th
 https://blog.callstack.io/sending-events-to-javascript-from-your-native-module-in-react-native-29244f890e04
 
 * Handling deep linking in React-Native: https://medium.com/the-react-native-log/handle-deep-links-in-react-native-apps-b22055149b3a
+
+* Using Expo, Gulp and Webpack to publish react components to npm:
+https://blog.expo.io/how-to-combine-expo-gulp-and-webpack-to-create-and-publish-react-components-to-npm-baec7b6bb443
+
+* Turn any Javascript library into React-Native component:
+https://medium.com/react-native-training/turn-any-javascript-library-into-a-react-native-component-e8ab0c710f12
